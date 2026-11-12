@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="132" viewBox="0 0 600 132">
+<rect x="1" y="1" width="598" height="130" rx="14" fill="#151022" stroke="#33264D" stroke-width="2"/>
+<rect x="20" y="22" width="88" height="88" rx="14" fill="#FFFFFF" fill-opacity="0.06"/>
+<image x="24" y="26" width="80" height="80" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAACOElEQVR4nO3dsUrDUBhA4duSwakU6WLoKGhHN0efwifxPXwZ6eKS0aHgqII4ppvUwdW6GtsMgaT9k3O+rUGkwuHn3prejGaT+TYJa3zsN6DjMgA4A4DL/l/Ip+fHeSc6iHLzXnntBIAzADgDgDMAOAOAMwA4A4AzADgDgDMAOAOAMwA4A4AzADgDgDMAOAOAMwA4A4AzADgDgDMAOAOA2/leQDTlZ5H6LD+9SZE5AeAMAM4A4AwAzgDgsuir/eeXZYrkJD02+vnF4j707sAJAGcAcAYAZwBwBgCX9XW133Q13rXx1/6/6+3pau/1i+sixO7ACQBnAHAGAGcAcAYAF+Z/AW2t9utW411bv1ZP4OwLJwCcAcAZAJwBwBkAXPhdQLRV+tnlsJ6n4ASAMwA4A4AzADgDgDMAOAOAMwA4A4AzADgDgMuGdudP13fmrGt+/8PyO/WREwDOAOAMAM4A4AwALswuINpqvy3F6idF5gSAMwA4A4AzADgDgAuzC2j6rd5on70XwVf7dZwAcAYAZwBwBgBnAHAH3wXUnYRZd3Lm3e2416v31cf+6z4vQCEYAJwBwBkAnAHAjWaT+fbvhXwa6wwcnx3crnJTvZPKCQBnAHAGAGcAcAYAF+aOoL6soofGCQBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAZwBwBgBnAHAGAGcAcAYAt3NGkFicAHAGAGcAcL/uIkmBMwikOwAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+<text x="128" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">Vast Adventures</text>
+<rect x="488" y="26" width="92" height="26" rx="13" fill="#F5C451"/>
+<text x="534" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3A2A00">In review</text>
+<text x="128" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#CFC7E6">Loot with rarities and affixes,</text>
+<text x="128" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#CFC7E6">gems, sockets, bosses and dungeons</text>
+<text x="128" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8C82A8">native + content mod · by voltzz900</text>
+</svg>

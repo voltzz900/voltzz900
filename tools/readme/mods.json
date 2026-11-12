@@ -1,0 +1,176 @@
+{
+  "categories": [
+    {
+      "id": "world",
+      "emoji": "⛏️",
+      "en": "World and materials",
+      "pt": "Mundo e materiais"
+    },
+    {
+      "id": "adventure",
+      "emoji": "⚔️",
+      "en": "Adventure",
+      "pt": "Aventura"
+    },
+    {
+      "id": "endgame",
+      "emoji": "🌟",
+      "en": "End game",
+      "pt": "Fim de jogo"
+    },
+    {
+      "id": "packs",
+      "emoji": "🛠️",
+      "en": "For modpack makers",
+      "pt": "Para quem monta modpacks"
+    },
+    {
+      "id": "client",
+      "emoji": "🖥️",
+      "en": "Client",
+      "pt": "Cliente"
+    }
+  ],
+  "mods": [
+    {
+      "id": "vastores",
+      "name": "Vast Ores",
+      "icon": "tools/readme/icons/vastores.png",
+      "category": "world",
+      "kind": "content",
+      "status": "review",
+      "registry": [
+        728
+      ],
+      "en": "Ten new ores, nine alloys and three gems, with dusts, plates, gears and rods",
+      "pt": "Dez minérios novos, nove ligas e três gemas, com pós, placas, engrenagens e hastes",
+      "repo": "vast-ores"
+    },
+    {
+      "id": "vastdepths",
+      "name": "Vast Depths",
+      "icon": "tools/readme/icons/vastdepths.png",
+      "category": "world",
+      "kind": "content",
+      "status": "review",
+      "registry": [
+        786
+      ],
+      "en": "Stellarite, Infernium and Voidium: end-game metals, tools and armour",
+      "pt": "Estelarita, Infernium e Voidium: metais, ferramentas e armaduras de fim de jogo",
+      "repo": "vast-ores"
+    },
+    {
+      "id": "vastcompressed",
+      "name": "Vast Compressed",
+      "icon": "tools/readme/icons/vastcompressed.png",
+      "category": "world",
+      "kind": "content",
+      "status": "review",
+      "registry": [
+        875
+      ],
+      "en": "828 compressed blocks, nine tiers deep, and back",
+      "pt": "828 blocos compactados, em nove níveis, e de volta",
+      "repo": "vast-compressed"
+    },
+    {
+      "id": "vastadventures",
+      "name": "Vast Adventures",
+      "icon": "tools/readme/icons/vastadventures.png",
+      "category": "adventure",
+      "kind": "both",
+      "status": "review",
+      "registry": [
+        735,
+        755
+      ],
+      "en": "Loot with rarities and affixes, gems, sockets, bosses and dungeons",
+      "pt": "Loot com raridades e afixos, gemas, encaixes, chefes e masmorras",
+      "repo": "vast-adventures"
+    },
+    {
+      "id": "vastspawners",
+      "name": "Vast Spawners",
+      "icon": "tools/readme/icons/vastspawners.png",
+      "category": "adventure",
+      "kind": "both",
+      "status": "review",
+      "registry": [
+        753,
+        754
+      ],
+      "en": "Change spawners with items, and mine them with Silk Touch",
+      "pt": "Mude spawners com itens e minere-os com Toque Suave",
+      "repo": "vast-spawners"
+    },
+    {
+      "id": "vaststar",
+      "name": "Vast Star",
+      "icon": "tools/readme/icons/vaststar.png",
+      "category": "endgame",
+      "kind": "content",
+      "status": "review",
+      "registry": [
+        880
+      ],
+      "en": "The last craft: five cores, a Star Seed and the Vast Star",
+      "pt": "O último craft: cinco núcleos, a Semente Estelar e a Estrela Vasta",
+      "repo": "vast-star"
+    },
+    {
+      "id": "vasttweaks",
+      "name": "Vast Tweaks",
+      "icon": "tools/readme/icons/vasttweaks.png",
+      "category": "packs",
+      "kind": "native",
+      "status": "review",
+      "registry": [
+        888
+      ],
+      "en": "KubeJS-style scripts for recipes and tags, with /reload",
+      "pt": "Scripts estilo KubeJS para receitas e tags, com /reload",
+      "repo": "vast-tweaks"
+    },
+    {
+      "id": "vastunify",
+      "name": "Vast Unify",
+      "icon": "tools/readme/icons/vastunify.png",
+      "category": "packs",
+      "kind": "content",
+      "status": "review",
+      "registry": [
+        884
+      ],
+      "en": "Other mods' metals become Vast Ores': one tin, not five",
+      "pt": "Os metais de outros mods viram os do Vast Ores: um estanho, não cinco",
+      "repo": "vast-unify"
+    },
+    {
+      "id": "fullscreen_fix",
+      "name": "Fullscreen Fix",
+      "icon": "tools/readme/icons/fullscreen_fix.png",
+      "category": "client",
+      "kind": "native",
+      "status": "review",
+      "registry": [
+        727
+      ],
+      "en": "Exclusive fullscreen that fills the whole screen on macOS",
+      "pt": "Tela cheia exclusiva que ocupa a tela inteira no macOS",
+      "repo": "horizon-fullscreen-fix"
+    }
+  ],
+  "next": {
+    "en": [
+      "**3D items:** the cores, the star, the gems, the seals and the Ore Hammer get real shapes in the hand, on the ground and in frames (the inventory keeps their sprites).",
+      "**Vast Spawners 0.2:** Jade lines for every spawner and a Spawner Modifiers category in Just Enough Items.",
+      "More of the family: new mods that Horizon doesn't have yet."
+    ],
+    "pt": [
+      "**Itens 3D:** núcleos, estrela, gemas, selos e o Martelo de Minério ganham formas de verdade na mão, no chão e nas molduras (no inventário continuam os sprites).",
+      "**Vast Spawners 0.2:** linhas do Jade para cada spawner e uma categoria Modificadores de Spawner no Just Enough Items.",
+      "Mais da família: mods novos que o Horizon ainda não tem."
+    ]
+  }
+}
