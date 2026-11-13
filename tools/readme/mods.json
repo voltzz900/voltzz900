@@ -13,6 +13,12 @@
       "pt": "Aventura"
     },
     {
+      "id": "magic",
+      "emoji": "✨",
+      "en": "Magic",
+      "pt": "Magia"
+    },
+    {
       "id": "endgame",
       "emoji": "🌟",
       "en": "End game",
@@ -103,6 +109,21 @@
       "en": "Change spawners with items, and mine them with Silk Touch",
       "pt": "Mude spawners com itens e minere-os com Toque Suave",
       "repo": "vast-spawners"
+    },
+    {
+      "id": "vastenchanting",
+      "name": "Vast Enchanting",
+      "icon": "tools/readme/icons/vastenchanting.png",
+      "category": "magic",
+      "kind": "both",
+      "status": "review",
+      "registry": [
+        956,
+        958
+      ],
+      "en": "An enchanting table past max levels, its shelves, anvil tomes and book archives",
+      "pt": "Uma mesa de encantamento além do nível máximo, suas estantes, tomos de bigorna e arquivos de livros",
+      "repo": "vast-enchanting"
     },
     {
       "id": "vaststar",

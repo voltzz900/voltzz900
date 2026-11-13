@@ -21,6 +21,12 @@
 <a href="https://github.com/voltzz900/vast-spawners"><img src=".github/readme/card-vastspawners-pt.svg" alt="Vast Spawners" width="49%"></a>
 </p>
 
+### ✨ Magia
+
+<p>
+<a href="https://github.com/voltzz900/vast-enchanting"><img src=".github/readme/card-vastenchanting-pt.svg" alt="Vast Enchanting" width="49%"></a>
+</p>
+
 ### 🌟 Fim de jogo
 
 <p>
