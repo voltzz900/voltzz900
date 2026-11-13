@@ -111,6 +111,21 @@
       "repo": "vast-spawners"
     },
     {
+      "id": "vastrifts",
+      "name": "Vast Rifts",
+      "icon": "tools/readme/icons/vastrifts.png",
+      "category": "adventure",
+      "kind": "both",
+      "status": "review",
+      "registry": [
+        964,
+        965
+      ],
+      "en": "Rifts that bring waves of mobs, stronger wave by wave, and their rewards",
+      "pt": "Fendas que trazem ondas de mobs, mais fortes a cada onda, e suas recompensas",
+      "repo": "vast-rifts"
+    },
+    {
       "id": "vastenchanting",
       "name": "Vast Enchanting",
       "icon": "tools/readme/icons/vastenchanting.png",

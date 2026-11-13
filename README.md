@@ -19,6 +19,7 @@
 <p>
 <a href="https://github.com/voltzz900/vast-adventures"><img src=".github/readme/card-vastadventures.svg" alt="Vast Adventures" width="49%"></a>
 <a href="https://github.com/voltzz900/vast-spawners"><img src=".github/readme/card-vastspawners.svg" alt="Vast Spawners" width="49%"></a>
+<a href="https://github.com/voltzz900/vast-rifts"><img src=".github/readme/card-vastrifts.svg" alt="Vast Rifts" width="49%"></a>
 </p>
 
 ### ✨ Magic
