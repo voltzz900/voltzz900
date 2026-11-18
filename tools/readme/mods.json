@@ -44,7 +44,7 @@
       "icon": "tools/readme/icons/vastores.png",
       "category": "world",
       "kind": "content",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         728
       ],
@@ -58,7 +58,7 @@
       "icon": "tools/readme/icons/vastdepths.png",
       "category": "world",
       "kind": "content",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         786
       ],
@@ -72,7 +72,7 @@
       "icon": "tools/readme/icons/vastcompressed.png",
       "category": "world",
       "kind": "content",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         875
       ],
@@ -174,7 +174,7 @@
       "icon": "tools/readme/icons/vastunify.png",
       "category": "packs",
       "kind": "content",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         884
       ],
