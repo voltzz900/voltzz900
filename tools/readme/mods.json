@@ -86,7 +86,7 @@
       "icon": "tools/readme/icons/vastadventures.png",
       "category": "adventure",
       "kind": "native",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         1155
       ],
@@ -142,7 +142,7 @@
       "icon": "tools/readme/icons/vaststar.png",
       "category": "endgame",
       "kind": "content",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         1323
       ],
