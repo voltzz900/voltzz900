@@ -100,7 +100,7 @@
       "icon": "tools/readme/icons/vastspawners.png",
       "category": "adventure",
       "kind": "native",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         1153
       ],
@@ -114,7 +114,7 @@
       "icon": "tools/readme/icons/vastrifts.png",
       "category": "adventure",
       "kind": "native",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         1151
       ],
@@ -128,13 +128,27 @@
       "icon": "tools/readme/icons/vastenchanting.png",
       "category": "magic",
       "kind": "native",
-      "status": "review",
+      "status": "catalog",
       "registry": [
         1154
       ],
       "en": "An enchanting table past max levels, its shelves, anvil tomes and book archives",
       "pt": "Uma mesa de encantamento além do nível máximo, suas estantes, tomos de bigorna e arquivos de livros",
       "repo": "vast-enchanting"
+    },
+    {
+      "id": "vastpacks",
+      "name": "Vast Packs",
+      "icon": "tools/readme/icons/vastpacks.png",
+      "category": "adventure",
+      "kind": "native",
+      "status": "review",
+      "registry": [
+        1157
+      ],
+      "en": "Backpacks from 18 to 180 slots; what they hold travels with them",
+      "pt": "Mochilas de 18 a 180 espaços; o que guardam vai junto com elas",
+      "repo": "vast-packs"
     },
     {
       "id": "vaststar",
